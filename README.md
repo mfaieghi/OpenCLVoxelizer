@@ -1,6 +1,6 @@
-Voxelization-OpenCL-VTK:
+A set of code for GPU accelerated voxelization of triangle mesh models.
 
-A set of code for GPU accelerated voxelization of triangle mesh models
+Full description of the code can be found in this paper: https://www.tandfonline.com/doi/abs/10.1080/16864360.2018.1486961
 
 OpenCL and VTK are required to use the code.
 
